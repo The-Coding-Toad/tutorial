@@ -1,2 +1,2 @@
 # tutorial
-The Coding Toad tutotials
+The Coding Toad tutorials
